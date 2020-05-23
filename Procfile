@@ -1,1 +1,1 @@
-web : deno --help ; deno run --allow-read --allow-net server.ts
+web : deno run --allow-read --allow-net server.ts
