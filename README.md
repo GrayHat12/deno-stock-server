@@ -1,0 +1,2 @@
+# deno-stock-server
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/82f0bba6fd44411ea2feb5fc9233fd89)](https://app.codacy.com/manual/grayhathacks10/deno-stock-server?utm_source=github.com&utm_medium=referral&utm_content=GrayHat12/deno-stock-server&utm_campaign=Badge_Grade_Dashboard)
